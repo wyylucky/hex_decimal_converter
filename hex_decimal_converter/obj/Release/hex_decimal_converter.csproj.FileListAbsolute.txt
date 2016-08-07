@@ -1,0 +1,9 @@
+E:\projects\opensource\hex_decimal_converter\hex_decimal_converter\bin\Release\hex_decimal_converter.exe.config
+E:\projects\opensource\hex_decimal_converter\hex_decimal_converter\bin\Release\hex_decimal_converter.exe
+E:\projects\opensource\hex_decimal_converter\hex_decimal_converter\bin\Release\hex_decimal_converter.pdb
+E:\projects\opensource\hex_decimal_converter\hex_decimal_converter\obj\Release\hex_decimal_converter.Form1.resources
+E:\projects\opensource\hex_decimal_converter\hex_decimal_converter\obj\Release\hex_decimal_converter.Properties.Resources.resources
+E:\projects\opensource\hex_decimal_converter\hex_decimal_converter\obj\Release\hex_decimal_converter.csproj.GenerateResource.Cache
+E:\projects\opensource\hex_decimal_converter\hex_decimal_converter\obj\Release\hex_decimal_converter.exe
+E:\projects\opensource\hex_decimal_converter\hex_decimal_converter\obj\Release\hex_decimal_converter.pdb
+E:\projects\opensource\hex_decimal_converter\hex_decimal_converter\obj\Release\hex_decimal_converter.csprojResolveAssemblyReference.cache
